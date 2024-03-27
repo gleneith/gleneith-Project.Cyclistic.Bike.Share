@@ -33,7 +33,6 @@ select * from `stately-minutia-402911.bikeshare.nov`
 union distinct
 select * from `stately-minutia-402911.bikeshare.dec`
 
-
 - create final version, bikesharing table
   
 create table `stately-minutia-402911.bikeshare.bikesharing` as
